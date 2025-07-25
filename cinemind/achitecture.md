@@ -91,8 +91,8 @@ The following diagrams provide visual insight into the MVP system architecture:
 
 These diagrams are stored in the [`docs/assets/`](./docs/assets/) folder and embedded below for reference.
 
-![Component Diagram](./docs/assets/component-diagram.png)
-![Data Flow Diagram](./docs/assets/dataflow-diagram.png)
+![Component Diagram](./docs/assets/Component%20diagram.drawio.png)
+![Level 1 DFD](./docs/assets/Lv.1%20DFD.drawio.png)
 
 
 ## Future Enhancements (Post-MVP)

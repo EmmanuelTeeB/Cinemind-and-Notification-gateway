@@ -89,10 +89,7 @@ The following diagrams provide visual insight into the MVP system architecture:
 - **Component Diagram** – Shows core services, integrations, and modules at a high level.
 - **Data Flow Diagram (DFD)** – Depicts the flow of data between modules and external systems.
 
-These diagrams are stored in the [`docs/assets/`](./docs/assets/) folder and embedded below for reference.
-
-![Component Diagram](./docs/assets/Component%20diagram.drawio.png)
-![Level 1 DFD](./docs/assets/Lv.1%20DFD.drawio.png)
+These diagrams are stored in the [`docs/assets/`](./docs/assets/) folder.
 
 
 ## Future Enhancements (Post-MVP)

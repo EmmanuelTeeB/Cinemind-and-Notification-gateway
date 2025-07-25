@@ -1,4 +1,4 @@
-# 🎬 Cinemind MVP – System Architecture
+#  Cinemind MVP – System Architecture
 
 ## Overview
 

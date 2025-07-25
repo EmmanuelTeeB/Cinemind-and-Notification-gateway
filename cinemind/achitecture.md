@@ -82,13 +82,17 @@ The goal of the MVP is to validate Cinemind’s core value:
   TMDb API is queried on demand; caching and async improvements are deferred for now. Emails are sent directly without queuing.
 
 
-## Architecture Diagrams (MVP)
+## Architecture Diagrams
 
-> Diagrams provide visual insight into the architecture:
-- **Component Diagram (MVP Scope)**  
-- **Data Flow Diagram (MVP Interactions)**  
+The following diagrams provide visual insight into the MVP system architecture:
 
-_These diagrams are included as attachments or embedded in the system documentation._
+- **Component Diagram** – Shows core services, integrations, and modules at a high level.
+- **Data Flow Diagram (DFD)** – Depicts the flow of data between modules and external systems.
+
+These diagrams are stored in the [`docs/assets/`](./docs/assets/) folder and embedded below for reference.
+
+![Component Diagram](./docs/assets/component-diagram.png)
+![Data Flow Diagram](./docs/assets/dataflow-diagram.png)
 
 
 ## Future Enhancements (Post-MVP)

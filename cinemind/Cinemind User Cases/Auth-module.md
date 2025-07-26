@@ -1,10 +1,13 @@
 # Use case 1: User registration(Sign up)
 ## 1.Overview
   **Actor**: New user
+  
   **Goal**: To create a new user account
+
   **Preconditions**: 
    -User has not registered before.
    -User has access to email.
+   
   **Postconditions**:
    -User credentials are stored in the Database.
    -User is registered and redirected to login.
